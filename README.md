@@ -1,1 +1,1 @@
-# Node express.js & MongoDB Starter App
+# Node express.js application architecture
